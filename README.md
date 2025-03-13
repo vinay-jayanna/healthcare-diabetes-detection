@@ -26,7 +26,9 @@ This project fine-tunes **EfficientNet** on a diabetic retinopathy dataset, enab
 
 ## 🚀 Try It Live!
 💡 **Run the Diabetic Retinopathy Detection Model on Vipas.AI**  
-🔗 [Try the interactive AI model now](#) *(Insert the actual model link here)*  
+🔗 [Try the interactive AI model now](https://www.vipas.ai/models/mdl-u28qo4e90ri0a)  
+
+🔗 **Explore the Interactive Agent App**: [Agent App](https://www.vipas.ai/apps/app-a9hcz5tdih0dd)
 
 ## How to Use
 ### 1️⃣ Clone the Repository
@@ -56,12 +58,13 @@ Vipas.AI allows AI creators to **publish their models and earn revenue per API c
 🔹 **First-Mover Advantage** – Be among the first to monetize domain-specific AI models  
 
 ## 🔥 Want to Customize and Publish Your Own?
-1️⃣ **Fork this repo**, modify the model, and fine-tune it on your dataset  
-2️⃣ **Deploy on Vipas.AI** to create a **monetized AI service**  
-3️⃣ **Gain visibility** from recruiters, AI professionals, and enterprises  
+1️⃣ **Download the full source code**: [Diabetic Retinopathy Source Code](https://utils.vipas.ai/vps-ipynb/diaetic_retinopathy/diabetic_retinopathy.zip)  
+2️⃣ **Fork this repo**, modify the model, and fine-tune it on your dataset  
+3️⃣ **Deploy on Vipas.AI** to create a **monetized AI service**  
+4️⃣ **Gain visibility** from recruiters, AI professionals, and enterprises  
 
 ## More AI Models in Healthcare & Other Industries
-Looking for other industry-specific AI models? Check out [more examples on Vipas.AI](#) *(Insert the actual link to Vipas.AI models page here)*  
+Looking for other industry-specific AI models? Check out [more examples on Vipas.AI](https://www.vipas.ai/ai-creators#examples)  
 
 ---
 
