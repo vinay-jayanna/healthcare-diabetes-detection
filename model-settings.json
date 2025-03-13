@@ -1,0 +1,8 @@
+{
+    "name": "mdl-fjqaeuailhx5w-u28qo4e90ri0a",
+    "implementation": "custom_runtime.CustomDiabeticRetinopathyModel",
+    "parameters": {
+      "version": "v1.0"
+    }
+  }
+  

@@ -1,0 +1,6 @@
+mlserver==1.6.1
+tensorflow==2.12.0  # Downgraded to avoid typing-extensions conflict
+pydantic==2.7.1
+pandas==2.1.1
+numpy==1.23.5
+pillow==10.0.1
